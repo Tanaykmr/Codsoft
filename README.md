@@ -1,2 +1,2 @@
 # Codsoft
-This is a repo for all the tasks in the codsoft internship
+This repo will contain all the tasks for the codsoft internship
