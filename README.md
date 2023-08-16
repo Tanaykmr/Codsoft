@@ -1,2 +1,2 @@
 # Codsoft
-This is a repo for all the tasks in the codsoft internship
+This is a repo for all the tasks I will be doing in the codsoft internship
